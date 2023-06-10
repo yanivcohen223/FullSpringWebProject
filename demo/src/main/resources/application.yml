@@ -1,0 +1,10 @@
+maxStudentInExternalClass: 20
+
+randomStudentApi:
+  url: https://dummyjson.com/users
+
+cache_on: false
+redis:
+  host: localhost
+  port: 6377
+  ttl: 72000
